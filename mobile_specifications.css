@@ -1,0 +1,30 @@
+
+.imgages {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/iphoneX-bg.png");
+    background-size: cover;
+    height: 70vh;
+    width: 100vh;
+
+}
+
+.card_container {
+    color: #ffffff;
+    border-color: #0a1f44;
+    border-width: 20px;
+    padding-bottom: 15px;
+
+}
+
+.headings {
+    color: #0a1f44;
+    padding: 10px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.unoredered_list {
+    color: #707070;
+    font-weight: bold;
+    padding-right: 15px;
+    font-family: Roboto;
+}
